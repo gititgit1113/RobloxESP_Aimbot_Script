@@ -18,7 +18,3 @@ Execute this in your Roblox script executor console:
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/gititgit1113/RobloxESP_Aimbot_Script/main/StupidII.lua"))()
-
-### Manual loading
-
-Just copy the entire script from StupidII.lua file.
